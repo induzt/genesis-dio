@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background-color: rgb(208, 255, 239);
+    background-color: rgb(93, 95, 192);
 }
 
 .main-game {
@@ -16,8 +16,8 @@ body {
     grid-template-areas: 'verde vermelho'
     'amarelo azul';
     grid-gap: 10px;
-    border: 1px solid #ffffff;
-    background-color: #ffffff;
+    border: 1px solid #080808;
+    background-color: #080808;
     border-radius: 100%;
     width: 700px;
     height: 700px;
@@ -48,5 +48,5 @@ body {
 }
 
 .selected {
-    opacity: 0.8;
+    opacity: 0.75;
 }
